@@ -25,6 +25,7 @@ public class Student {
             result = "information didn't saved";
         } finally {
             System.out.println(result);
+            System.out.println("test");
         }
     }
 
